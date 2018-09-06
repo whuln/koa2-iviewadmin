@@ -52,7 +52,12 @@
     "less-loader": "^4.0.5",
     "lint-staged": "^6.0.0",
     "mockjs": "^1.0.1-beta3",
-    "vue-template-compiler": "^2.5.13"
+    "request": "^2.88.0",
+    "vue-template-compiler": "^2.5.13",    
+    "gulp": "^3.9.1",
+    "del": "^3.0.0", 
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-nodemon": "^2.2.1"
   },
   "browserslist": [
     "> 1%",

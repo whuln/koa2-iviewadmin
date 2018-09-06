@@ -1,9 +1,7 @@
 const Koa = require('koa')
 const render = require('koa-ejs')
 const serve = require('koa-static')
-const session = require('koa-session')
 const path = require('path')
-
 const router = require('./route')
 
 const app = new Koa()
